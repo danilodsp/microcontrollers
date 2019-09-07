@@ -1,0 +1,32 @@
+Line	MessageNo	File Name
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA168 -Y -DL -O11111114 -fo16 -N"C:\Users\Danilo Pena\Documents\Arduino\contador mikroC\contador.mcpav" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Danilo Pena\Documents\Arduino\contador mikroC\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\" "contador.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_PrintOut.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_eio.mcl" "__Lib_EEPROM_eep.mcl" "__Lib_FLASH_rwe.mcl" "__Lib_PWM_AB.mcl" "__Lib_PWM1_2A.mcl" "__Lib_PWM16bit_12.mcl" "__Lib_SPI_b5432_x2.mcl" "__Lib_TWI_eio.mcl" "__Lib_UART_d01_eio.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_CFFat16.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_Mmc.mcl" "__Lib_MmcFat16.mcl" "__Lib_RS485.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl"	 
+diagnostics: 0	126	All files Preprocessed in 78 ms	 
+diagnostics: 0	122	Compilation Started	contador.c
+error: 11	324	Undeclared identifier 'pinMode' in expression	contador.c
+error: 12	324	Undeclared identifier 'pinMode' in expression	contador.c
+error: 13	324	Undeclared identifier 'pinMode' in expression	contador.c
+error: 14	324	Undeclared identifier 'pinMode' in expression	contador.c
+error: 15	324	Undeclared identifier 'pinMode' in expression	contador.c
+error: 16	324	Undeclared identifier 'pinMode' in expression	contador.c
+error: 17	324	Undeclared identifier 'pinMode' in expression	contador.c
+error: 18	324	Undeclared identifier 'pinMode' in expression	contador.c
+error: 23	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 24	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 25	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 26	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 27	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 28	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 29	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 30	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 31	324	Undeclared identifier 'delay' in expression	contador.c
+error: 32	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 33	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 34	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 35	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 36	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 37	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 38	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 39	324	Undeclared identifier 'digitalWrite' in expression	contador.c
+error: 40	324	Undeclared identifier 'delay' in expression	contador.c
+error: 41	312	Internal error ''	contador.c
+error: 0	102	Finished (with errors): 03 abr 2011, 12:44:13	contador.mcpav

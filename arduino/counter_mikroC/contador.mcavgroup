@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\..\..\Program Files (x86)\Mikroelektronika\mikroC PRO for AVR\Examples\Development Systems\EasyAVR6\Led Blinking\LedBlinking.mcpav
+Project1=contador.mcpav
+[ActiveProject]
+Index=1
